@@ -1,0 +1,53 @@
+#banner {
+  background-image: url("https://source.unsplash.com/random");
+  background-size: cover;
+  
+  height: 500px;
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 300;
+  font-size: 48px;
+  color: antiquewhite;
+  padding-top: 150px;
+}
+
+h2 {
+  text-align: center;
+  font-family:serif;
+  margin-top: 150px;
+}
+
+h3 {
+  color:grey;
+  padding: 10px;
+  font-size: 28px;
+}
+
+p {
+  font-family: 'Times New Roman', Times, serif;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+a {
+  background-color: indianred;
+  text-decoration: none;
+  color: turquoise
+}
+body {
+  background-color: antiquewhite;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+  align-self: center;
+  text-align: center;
+  background-color: honeydew;
+  border-radius: 50px;
+  width: 75%;
+  margin: 0 auto;
+
+}
